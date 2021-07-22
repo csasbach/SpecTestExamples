@@ -22,12 +22,6 @@ namespace Spec.Steps
             _scenarioContext = scenarioContext;
         }
 
-        [Given("I am on the home page")]
-        public void IAmOnTheHomePage()
-        {
-            HomePage.LoadOrReload();
-        }
-
         [When(@"I click on the Fetch Data link")]
         public void WhenIClickOnTheFetchDataLink()
         {
