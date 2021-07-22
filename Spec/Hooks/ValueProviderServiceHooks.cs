@@ -1,5 +1,5 @@
 ﻿using Spec.Factories;
-using Spec.ServiceObjects;
+using Spec.Objects.ServiceObjects;
 using TechTalk.SpecFlow;
 
 namespace Spec.Hooks

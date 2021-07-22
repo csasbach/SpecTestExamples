@@ -1,5 +1,5 @@
 ﻿using Spec.Drivers;
-using Spec.PageObjects;
+using Spec.Objects.PageObjects;
 using TechTalk.SpecFlow;
 
 namespace Spec.Hooks

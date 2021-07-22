@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using Spec.Drivers;
-using Spec.PageObjects;
+using Spec.Objects.PageObjects;
 using TechTalk.SpecFlow;
 
 namespace Spec.Steps

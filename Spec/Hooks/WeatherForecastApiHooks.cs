@@ -1,5 +1,5 @@
-﻿using Spec.ApiObjects;
-using Spec.Clients;
+﻿using Spec.Clients;
+using Spec.Objects.ApiObjects;
 using TechTalk.SpecFlow;
 
 namespace Spec.Hooks

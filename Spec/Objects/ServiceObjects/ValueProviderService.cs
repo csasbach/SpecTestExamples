@@ -1,6 +1,6 @@
 ﻿using App.Services;
 
-namespace Spec.ServiceObjects
+namespace Spec.Objects.ServiceObjects
 {
     internal class ValueProviderService
     {

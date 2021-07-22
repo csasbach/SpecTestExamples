@@ -3,7 +3,7 @@ using System.Net.Http;
 using App;
 using Newtonsoft.Json;
 using NUnit.Framework;
-using Spec.ApiObjects;
+using Spec.Objects.ApiObjects;
 using TechTalk.SpecFlow;
 using HttpClient = Spec.Clients.HttpClient;
 

@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace Spec.PageObjects
+namespace Spec.Objects.PageObjects
 {
     internal class HomePage
     {
